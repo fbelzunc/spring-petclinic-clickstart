@@ -6,3 +6,5 @@ target/*
 *.iml
 /target
 .DS_Store
+**/.DS_Store
+**/.gitignore
