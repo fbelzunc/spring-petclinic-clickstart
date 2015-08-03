@@ -456,7 +456,7 @@
          <groupId>org.apache.maven.plugins</groupId>  
          <!-- Plugin that gives ability to generate your projects site -->  
          <artifactId>maven-site-plugin</artifactId>  
-         <version>3.2.4</version>  
+         <version>3.4</version>  
          <configuration>  
            <!-- Reports that will be displayed on a generated site -->  
            <reportPlugins>  
